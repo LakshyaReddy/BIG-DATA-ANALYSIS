@@ -12,3 +12,8 @@ Missing values are handled by replacing zeros with mean values, ensuring data in
 Key insights include identifying patients with glucose > 140 and BMI > 30, understanding the impact of glucose and BMI on diabetes, and detecting age-based diabetes prevalence. 
 Correlation analysis helps assess relationships between variables. The processed dataset is stored in Parquet format for further use.
 This project provides valuable insights for healthcare professionals and sets the foundation for predictive modeling and advanced analytics in diabetes research. 
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/9ca5dbcd-2f63-4165-8a96-a79d6cffa481)
+
+![Image](https://github.com/user-attachments/assets/6251aa9d-b436-4088-8168-bcc93ebb41cc)
